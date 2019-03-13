@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/pp-rox/node-playground/issues"
   },
-  "homepage": "https://github.com/pp-rox/node-playground#readme"
+  "homepage": "https://github.com/pp-rox/node-playground#readme",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "http": "0.0.0"
+  }
 }
