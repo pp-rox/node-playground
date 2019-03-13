@@ -1,11 +1,23 @@
 {
-  "name": "node-playground",
+  "name": "playground",
   "version": "1.0.0",
-  "description": "All my sample codes",
+  "description": "Sample codes",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "test"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pp-rox/node-playground.git"
+  },
+  "keywords": [
+    "test",
+    "codes"
+  ],
   "author": "Rox P",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pp-rox/node-playground/issues"
+  },
+  "homepage": "https://github.com/pp-rox/node-playground#readme"
 }
